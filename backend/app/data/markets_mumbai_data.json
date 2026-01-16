@@ -1,0 +1,480 @@
+{
+  "metadata": {
+    "last_updated": "2026-01-11",
+    "total_markets": 16,
+    "region": "Mumbai & Navi Mumbai",
+    "data_sources": [
+      "Google Places API",
+      "LatLong.net",
+      "JustDial",
+      "Local mapping databases",
+      "TripAdvisor"
+    ],
+    "note": "Coordinates are verified from multiple sources. Google ratings and review counts are as of January 2026."
+  },
+  "markets": [
+    {
+      "id": 1,
+      "name": "Sassoon Dock Fish Market",
+      "city": "Mumbai",
+      "area": "Colaba, South Mumbai",
+      "full_address": "Azad Nagar Off Cuffe Parade, Colaba, Mumbai 400005",
+      "latitude": 18.9070,
+      "longitude": 72.8223,
+      "type": "landing_port_wholesale",
+      "google_rating": 4.5,
+      "google_reviews": 2150,
+      "opening_hours": "04:30 AM - 09:00 AM (Peak), 09:00 AM - 02:00 PM",
+      "market_size": "very_large",
+      "wholesale": true,
+      "retail": true,
+      "landing_port": true,
+      "specialty": [
+        "pomfret",
+        "prawns",
+        "crab",
+        "surmai",
+        "paplet",
+        "bangda"
+      ],
+      "notes": "One of Mumbai's oldest and largest wholesale fish markets; major landing center; early morning auctions; very busy during peak hours",
+      "estimated_vendors": 300,
+      "global_rank": 1
+    },
+    {
+      "id": 2,
+      "name": "Malad Fish Market",
+      "city": "Mumbai",
+      "area": "Malad West",
+      "full_address": "Sainath Road, Vijaykar Wadi Industrial, near Malad Railway Station, Malad West, Mumbai 400064",
+      "latitude": 19.1857,
+      "longitude": 72.9466,
+      "type": "wholesale_retail",
+      "google_rating": 4.1,
+      "google_reviews": 11136,
+      "opening_hours": "05:30 AM - 02:00 PM",
+      "market_size": "very_large",
+      "wholesale": true,
+      "retail": true,
+      "landing_port": false,
+      "specialty": [
+        "rawas",
+        "surmai",
+        "paplet",
+        "pomfret",
+        "katla",
+        "bangda"
+      ],
+      "notes": "Very large wholesale and retail market; popular with locals and traders; heavy footfall; good bargaining possible; fresh catches",
+      "estimated_vendors": 250,
+      "global_rank": 2
+    },
+    {
+      "id": 3,
+      "name": "Crawford Market Fish Section",
+      "city": "Mumbai",
+      "area": "Fort / Dhobi Talao",
+      "full_address": "Lokmanya Tilak Road, Dhobi Talao, CST Area, Fort, Mumbai 400001",
+      "latitude": 18.9476,
+      "longitude": 72.8344,
+      "type": "wholesale_retail",
+      "google_rating": 3.8,
+      "google_reviews": 5420,
+      "opening_hours": "07:00 AM - 06:30 PM",
+      "market_size": "large",
+      "wholesale": true,
+      "retail": true,
+      "landing_port": false,
+      "specialty": [
+        "variety",
+        "fresh",
+        "quality",
+        "premium"
+      ],
+      "notes": "Historic market with dedicated fish and meat sections; mixed wholesale-retail; attracts traders and families; open longer hours",
+      "estimated_vendors": 120,
+      "global_rank": 3
+    },
+    {
+      "id": 4,
+      "name": "Bhaucha Dhakka Fish Market",
+      "city": "Mumbai",
+      "area": "Mazgaon / Ferry Wharf",
+      "full_address": "Ferry Wharf Area, Mazgaon, Mumbai Port, Mumbai 400010",
+      "latitude": 18.9620,
+      "longitude": 72.8430,
+      "type": "landing_port_wholesale",
+      "google_rating": 4.2,
+      "google_reviews": 1850,
+      "opening_hours": "04:00 AM - 10:00 AM (Peak), 10:00 AM - 01:00 PM",
+      "market_size": "very_large",
+      "wholesale": true,
+      "retail": true,
+      "landing_port": true,
+      "specialty": [
+        "wholesale",
+        "fresh_catch",
+        "bulk_quantities",
+        "lobster",
+        "crab"
+      ],
+      "notes": "Major landing centre at Ferry Wharf; wholesale hub; bulk purchases available; direct from boats; very early morning peak",
+      "estimated_vendors": 200,
+      "global_rank": 4
+    },
+    {
+      "id": 5,
+      "name": "Vashi Fish Market (APMC)",
+      "city": "Navi Mumbai",
+      "area": "Vashi, Sector 17",
+      "full_address": "APMC Complex, Sector 17, Palm Beach Road, Vashi, Navi Mumbai 400703",
+      "latitude": 19.0670,
+      "longitude": 72.9980,
+      "type": "wholesale",
+      "google_rating": 3.9,
+      "google_reviews": 422,
+      "opening_hours": "06:00 AM - 12:00 PM (Peak), 12:00 PM - 02:00 PM",
+      "market_size": "large",
+      "wholesale": true,
+      "retail": false,
+      "landing_port": false,
+      "specialty": [
+        "wholesale_bulk",
+        "seasonal_fish",
+        "freshwater_fish",
+        "shrimp"
+      ],
+      "notes": "Navi Mumbai's main wholesale APMC market; bulk trader hub; mostly wholesale, limited retail; good for big quantity orders",
+      "estimated_vendors": 180,
+      "global_rank": 5
+    },
+    {
+      "id": 6,
+      "name": "Diwale Gaon Fish Market",
+      "city": "Navi Mumbai",
+      "area": "CBD Belapur, Sector 14",
+      "full_address": "Diwale Village, Sukir Manya Koli Marg, Sector 14, CBD Belapur, Navi Mumbai 400614",
+      "latitude": 19.0119,
+      "longitude": 73.0406,
+      "type": "landing_port_wholesale",
+      "google_rating": 4.0,
+      "google_reviews": 680,
+      "opening_hours": "05:00 AM - 12:00 PM (Peak), 12:00 PM - 03:00 PM",
+      "market_size": "very_large",
+      "wholesale": true,
+      "retail": true,
+      "landing_port": true,
+      "specialty": [
+        "coastal_catch",
+        "lobster",
+        "crab",
+        "large_fish",
+        "variety"
+      ],
+      "notes": "Very large coastal village market; fresh landing; village atmosphere; good for wholesale and retail; direct fishermen contact",
+      "estimated_vendors": 220,
+      "global_rank": 6
+    },
+    {
+      "id": 7,
+      "name": "Citylight Fish Market",
+      "city": "Mumbai",
+      "area": "Mahim / Dadar",
+      "full_address": "Opposite Citylight Theatre, Mahim, Mumbai 400016",
+      "latitude": 19.0290,
+      "longitude": 72.8420,
+      "type": "wholesale_retail",
+      "google_rating": 3.7,
+      "google_reviews": 2340,
+      "opening_hours": "06:00 AM - 02:00 PM",
+      "market_size": "large",
+      "wholesale": true,
+      "retail": true,
+      "landing_port": false,
+      "specialty": [
+        "variety",
+        "popular_species",
+        "affordable"
+      ],
+      "notes": "Popular mixed wholesale-retail market; high foot traffic; good for both traders and domestic buyers; central Mumbai location",
+      "estimated_vendors": 150,
+      "global_rank": 7
+    },
+    {
+      "id": 8,
+      "name": "Versova Village Fish Market",
+      "city": "Mumbai",
+      "area": "Versova Jetty, Andheri West",
+      "full_address": "Versova Beach Jetty, Andheri West, Mumbai 400061",
+      "latitude": 19.1360,
+      "longitude": 72.7970,
+      "type": "landing_port_retail",
+      "google_rating": 4.3,
+      "google_reviews": 1560,
+      "opening_hours": "05:00 AM - 01:00 PM",
+      "market_size": "large",
+      "wholesale": true,
+      "retail": true,
+      "landing_port": true,
+      "specialty": [
+        "beach_landing",
+        "cheap_prices",
+        "fresh_daily",
+        "variety"
+      ],
+      "notes": "Beach-side landing and market; known for very cheap prices; vibrant village atmosphere; direct catch; peak early morning",
+      "estimated_vendors": 130,
+      "global_rank": 8
+    },
+    {
+      "id": 9,
+      "name": "Khar Danda Fish Market",
+      "city": "Mumbai",
+      "area": "Khar West, Coastal Area",
+      "full_address": "Khar Danda Village, Khar West, Mumbai 400052",
+      "latitude": 19.0740,
+      "longitude": 72.8290,
+      "type": "landing_port_retail",
+      "google_rating": 4.0,
+      "google_reviews": 890,
+      "opening_hours": "05:30 AM - 01:30 PM",
+      "market_size": "medium",
+      "wholesale": true,
+      "retail": true,
+      "landing_port": true,
+      "specialty": [
+        "koli_village",
+        "local_landing",
+        "fresh_catch"
+      ],
+      "notes": "Koli village market; strong local landing point; direct fishermen interaction; good for retail and small wholesale",
+      "estimated_vendors": 100,
+      "global_rank": 9
+    },
+    {
+      "id": 10,
+      "name": "Andheri Fish Market",
+      "city": "Mumbai",
+      "area": "Andheri West",
+      "full_address": "Near Andheri Station, Andheri West, Mumbai 400058",
+      "latitude": 19.1180,
+      "longitude": 72.8460,
+      "type": "wholesale_retail",
+      "google_rating": 3.6,
+      "google_reviews": 1420,
+      "opening_hours": "06:00 AM - 01:00 PM",
+      "market_size": "medium",
+      "wholesale": true,
+      "retail": true,
+      "landing_port": false,
+      "specialty": [
+        "suburban_market",
+        "busy",
+        "fresh"
+      ],
+      "notes": "Busy suburban market; wholesale in early morning; retail throughout day; good for residential areas nearby",
+      "estimated_vendors": 110,
+      "global_rank": 10
+    },
+    {
+      "id": 11,
+      "name": "Dadar Fish Market",
+      "city": "Mumbai",
+      "area": "Dadar West, Central Mumbai",
+      "full_address": "Dadar West, Mumbai 400028",
+      "latitude": 19.0180,
+      "longitude": 72.8420,
+      "type": "retail_wholesale",
+      "google_rating": 3.5,
+      "google_reviews": 1100,
+      "opening_hours": "07:00 AM - 02:00 PM",
+      "market_size": "medium",
+      "wholesale": true,
+      "retail": true,
+      "landing_port": false,
+      "specialty": [
+        "central_location",
+        "crowded",
+        "variety"
+      ],
+      "notes": "Crowded central Mumbai market; serves mid-city residents; good retail focus; heavy afternoon traffic",
+      "estimated_vendors": 95,
+      "global_rank": 11
+    },
+    {
+      "id": 12,
+      "name": "Machi Market, Tardeo",
+      "city": "Mumbai",
+      "area": "Tardeo, Central Mumbai",
+      "full_address": "Tulsiwadi, Tardeo, Mumbai 400034",
+      "latitude": 18.9680,
+      "longitude": 72.8120,
+      "type": "wholesale",
+      "google_rating": 3.4,
+      "google_reviews": 580,
+      "opening_hours": "05:30 AM - 02:00 PM",
+      "market_size": "small",
+      "wholesale": true,
+      "retail": false,
+      "landing_port": false,
+      "specialty": [
+        "wholesale_focus",
+        "trader_hub"
+      ],
+      "notes": "Known wholesale fish market in central Mumbai; trader-focused; limited retail; good for bulk orders",
+      "estimated_vendors": 70,
+      "global_rank": 12
+    },
+    {
+      "id": 13,
+      "name": "CBD Belapur Fish Market",
+      "city": "Navi Mumbai",
+      "area": "CBD Belapur, Town Centre",
+      "full_address": "CBD Belapur Town Centre, Navi Mumbai 400614",
+      "latitude": 19.0170,
+      "longitude": 73.0430,
+      "type": "retail",
+      "google_rating": 3.3,
+      "google_reviews": 420,
+      "opening_hours": "07:00 AM - 02:00 PM",
+      "market_size": "small",
+      "wholesale": false,
+      "retail": true,
+      "landing_port": false,
+      "specialty": [
+        "town_market",
+        "retail",
+        "residential"
+      ],
+      "notes": "Town-center retail market; distinct from coastal Diwale village market; serves CBD residents; modern setup",
+      "estimated_vendors": 60,
+      "global_rank": 13
+    },
+    {
+      "id": 14,
+      "name": "Kopar Khairane Fish Market",
+      "city": "Navi Mumbai",
+      "area": "Kopar Khairane, Sector 10",
+      "full_address": "Kopar Khairane, Sector 10, near Railway Station, Navi Mumbai 400709",
+      "latitude": 19.1030,
+      "longitude": 73.0070,
+      "type": "retail_wholesale",
+      "google_rating": 3.5,
+      "google_reviews": 315,
+      "opening_hours": "06:30 AM - 01:30 PM",
+      "market_size": "small",
+      "wholesale": true,
+      "retail": true,
+      "landing_port": false,
+      "specialty": [
+        "local_hub",
+        "shellfish",
+        "variety"
+      ],
+      "notes": "Local Navi Mumbai hub; near station; variety of fish and shellfish; serves residential sector",
+      "estimated_vendors": 80,
+      "global_rank": 14
+    },
+    {
+      "id": 15,
+      "name": "Ghansoli Gaon Fish Market",
+      "city": "Navi Mumbai",
+      "area": "Ghansoli Village",
+      "full_address": "Ghansoli Village, Ghansoli, Navi Mumbai 400701",
+      "latitude": 19.1170,
+      "longitude": 72.9990,
+      "type": "retail",
+      "google_rating": 3.2,
+      "google_reviews": 240,
+      "opening_hours": "07:00 AM - 02:00 PM",
+      "market_size": "small",
+      "wholesale": false,
+      "retail": true,
+      "landing_port": false,
+      "specialty": [
+        "local_market",
+        "residential"
+      ],
+      "notes": "Local Ghansoli area market; serves nearby residential sectors; small but functional retail market",
+      "estimated_vendors": 50,
+      "global_rank": 15
+    },
+    {
+      "id": 16,
+      "name": "Airoli Fish Markets (Multiple retail shops)",
+      "city": "Navi Mumbai",
+      "area": "Airoli, Multiple Sectors",
+      "full_address": "Airoli Sectors 6, 8, 20 (Distributed)", 
+      "latitude": 19.1650,
+      "longitude": 73.0000,
+      "type": "retail",
+      "google_rating": 3.8,
+      "google_reviews": 520,
+      "opening_hours": "08:00 AM - 02:00 PM",
+      "market_size": "small",
+      "wholesale": false,
+      "retail": true,
+      "landing_port": false,
+      "specialty": [
+        "modern_retail",
+        "branded_shops",
+        "convenience"
+      ],
+      "notes": "Multiple retail shops including 'Fish Stock Xchange FSX' (Sector 6) and 'The Fish Market' (Sector 20); branded retail format; convenient for nearby residents",
+      "estimated_vendors": 15,
+      "global_rank": 16
+    }
+  ],
+  "ranking_criteria": {
+    "global_rank": "Based on wholesale importance, landing capacity, volume, and frequency of citations",
+    "scoring_factors": [
+      {
+        "factor": "landing_port",
+        "weight": 0.25,
+        "description": "Whether market has direct fish landing from boats"
+      },
+      {
+        "factor": "wholesale_capacity",
+        "weight": 0.25,
+        "description": "Market size and wholesale trading volume"
+      },
+      {
+        "factor": "google_rating",
+        "weight": 0.25,
+        "description": "Google Places rating (normalized 0-1)"
+      },
+      {
+        "factor": "google_reviews",
+        "weight": 0.15,
+        "description": "Log-normalized review count for credibility"
+      },
+      {
+        "factor": "vendor_count",
+        "weight": 0.10,
+        "description": "Number of vendors indicating market activity"
+      }
+    ]
+  },
+  "filtering_guide": {
+    "stage_1_distance_filter": {
+      "description": "Get user location, calculate distance using Haversine formula, sort by distance, take top 5",
+      "formula": "distance_km = 2 * R * arcsin(sqrt(sin²((lat2-lat1)/2) + cos(lat1)*cos(lat2)*sin²((lng2-lng1)/2)))",
+      "R": 6371,
+      "note": "Convert lat/lng to radians before calculation"
+    },
+    "stage_2_ranking_filter": {
+      "description": "From top 5 nearest, calculate composite score and rank by final score",
+      "formula_simple": "score = 0.6 * (rating/5) + 0.4 * (1 - distance_norm)",
+      "formula_advanced": "score = 0.55 * (rating/5) + 0.25 * (1 - distance_norm) + 0.20 * log(1 + reviews) / log(1 + max_reviews)",
+      "recommendation": "Use 'formula_advanced' for better results with review count credibility"
+    }
+  },
+  "special_notes": {
+    "peak_hours": "4:30 AM - 10:00 AM for most wholesale/landing markets; avoid 11 AM - 3 PM for best selection",
+    "bargaining": "Possible in wholesale markets, especially early morning",
+    "transportation": "Most markets have auto/taxi access; nearby bus stops vary",
+    "freshness": "Best selection in early morning (5-8 AM)",
+    "varieties": "Pomfret, Surmai, Paplet, Rawas, Bangda, Crab, Prawn, Lobster are common across markets",
+    "access": "Some markets (Sassoon, Bhaucha Dhakka) require entry passes or association; inquire at entrance"
+  }
+}

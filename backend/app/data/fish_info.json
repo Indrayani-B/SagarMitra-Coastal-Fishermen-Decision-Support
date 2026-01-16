@@ -1,0 +1,138 @@
+{
+  "black pomfret": {
+    "scientific_name": "Parastromateus niger",
+    "local_names": ["Halwa", "Kali Paplet"],
+    "peak_season": ["September", "October", "November"],
+    "avg_price_per_kg": 700,
+    "market_demand": "High",
+    "notes": "Commonly landed along Maharashtra coast"
+  },
+  "black sea sprat": {
+    "scientific_name": "Spratelloides gracilis",
+    "local_names": ["Chandi"],
+    "peak_season": ["June", "July", "August"],
+    "avg_price_per_kg": 220,
+    "market_demand": "Medium",
+    "notes": "Used for drying and local consumption"
+  },
+  "black snapper": {
+    "scientific_name": "Lutjanus fulviflamma",
+    "local_names": ["Snapper"],
+    "peak_season": ["July", "August", "September"],
+    "avg_price_per_kg": 480,
+    "market_demand": "Medium",
+    "notes": "Occasionally available in Mumbai markets"
+  },
+  "gilt-head bream": {
+    "scientific_name": "Sparus aurata",
+    "local_names": ["Sea Bream"],
+    "peak_season": ["October", "November", "December"],
+    "avg_price_per_kg": 600,
+    "market_demand": "Medium",
+    "notes": "Mostly imported, limited local catch"
+  },
+  "hourse mackerel": {
+    "scientific_name": "Trachurus trachurus",
+    "local_names": ["Karel", "Horse Mackerel"],
+    "peak_season": ["June", "July", "August"],
+    "avg_price_per_kg": 250,
+    "market_demand": "High",
+    "notes": "Regularly landed during monsoon end"
+  },
+  "mackerel": {
+    "scientific_name": "Rastrelliger kanagurta",
+    "local_names": ["Bangda"],
+    "peak_season": ["June", "July", "August"],
+    "avg_price_per_kg": 300,
+    "market_demand": "High",
+    "notes": "Most important commercial fish in Mumbai"
+  },
+  "pink perch": {
+    "scientific_name": "Nemipterus japonicus",
+    "local_names": ["Rani"],
+    "peak_season": ["August", "September"],
+    "avg_price_per_kg": 400,
+    "market_demand": "Medium",
+    "notes": "Common demersal fish in trawl landings"
+  },
+  "pomfret": {
+    "scientific_name": "Pampus argenteus",
+    "local_names": ["Paplet"],
+    "peak_season": ["September", "October", "November"],
+    "avg_price_per_kg": 750,
+    "market_demand": "High",
+    "notes": "Premium fish in Mumbai retail markets"
+  },
+  "prawn": {
+    "scientific_name": "Penaeus indicus",
+    "local_names": ["Kolambi"],
+    "peak_season": ["October", "November", "December"],
+    "avg_price_per_kg": 500,
+    "market_demand": "High",
+    "notes": "Major export and local demand species"
+  },
+  "red mullet": {
+    "scientific_name": "Mullus barbatus",
+    "local_names": ["Red Mullet"],
+    "peak_season": ["May", "June", "July"],
+    "avg_price_per_kg": 450,
+    "market_demand": "Medium",
+    "notes": "Seasonal availability in trawl catches"
+  },
+  "red sea bream": {
+    "scientific_name": "Pagrus major",
+    "local_names": ["Sea Bream"],
+    "peak_season": ["October", "November", "December"],
+    "avg_price_per_kg": 650,
+    "market_demand": "Medium",
+    "notes": "Limited availability in Indian waters"
+  },
+  "rohu": {
+    "scientific_name": "Labeo rohita",
+    "local_names": ["Rohu"],
+    "peak_season": ["September", "October", "November"],
+    "avg_price_per_kg": 250,
+    "market_demand": "High",
+    "notes": "Freshwater fish sold widely in Mumbai"
+  },
+  "sea bass": {
+    "scientific_name": "Lates calcarifer",
+    "local_names": ["Bhetki"],
+    "peak_season": ["October", "November"],
+    "avg_price_per_kg": 600,
+    "market_demand": "Medium",
+    "notes": "Estuarine fish found near creeks"
+  },
+  "shrimp": {
+    "scientific_name": "Penaeus vannamei",
+    "local_names": ["Shrimp"],
+    "peak_season": ["September", "October", "November"],
+    "avg_price_per_kg": 520,
+    "market_demand": "High",
+    "notes": "Farmed and marine shrimp both sold"
+  },
+  "silver carp": {
+    "scientific_name": "Hypophthalmichthys molitrix",
+    "local_names": ["Silver Carp"],
+    "peak_season": ["June", "July", "August"],
+    "avg_price_per_kg": 200,
+    "market_demand": "Medium",
+    "notes": "Freshwater fish, transported to Mumbai"
+  },
+  "striped red mullet": {
+    "scientific_name": "Mullus surmuletus",
+    "local_names": ["Striped Red Mullet"],
+    "peak_season": ["May", "June", "July"],
+    "avg_price_per_kg": 460,
+    "market_demand": "Medium",
+    "notes": "Less common than red mullet"
+  },
+  "trout": {
+    "scientific_name": "Oncorhynchus mykiss",
+    "local_names": ["Trout"],
+    "peak_season": ["October", "November"],
+    "avg_price_per_kg": 550,
+    "market_demand": "Low",
+    "notes": "Imported / cold-water species"
+  }
+}

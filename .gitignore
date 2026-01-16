@@ -1,0 +1,73 @@
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# =========================
+# Build outputs
+# =========================
+dist/
+dist-ssr/
+build/
+*.local
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# =========================
+# Virtual Environments
+# =========================
+fishProj2_env/
+# =========================
+# ML Models (if >100MB, use Git LFS)
+# =========================
+models/
+*.h5
+*.keras
+*.pkl
+*.tflite
+
+# =========================
+# Editor directories and files
+# =========================
+.lh
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.DS_Store
+
+# =========================
+# Frontend
+# =========================
+node_modules/
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.local
+.env.production
+

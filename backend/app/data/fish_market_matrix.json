@@ -1,0 +1,103 @@
+{
+  "black pomfret": {
+    "sassoon": { "base_price": 850, "demand": "HIGH" },
+    "versova": { "base_price": 820, "demand": "MEDIUM" },
+    "bhayandar": { "base_price": 900, "demand": "HIGH" }
+  },
+
+  "black sea sprat": {
+    "sassoon": { "base_price": 120, "demand": "MEDIUM" },
+    "versova": { "base_price": 110, "demand": "LOW" },
+    "bhayandar": { "base_price": 130, "demand": "MEDIUM" }
+  },
+
+  "black snapper": {
+    "sassoon": { "base_price": 450, "demand": "HIGH" },
+    "versova": { "base_price": 420, "demand": "MEDIUM" },
+    "bhayandar": { "base_price": 480, "demand": "HIGH" }
+  },
+
+  "gilt-head bream": {
+    "sassoon": { "base_price": 500, "demand": "HIGH" },
+    "versova": { "base_price": 470, "demand": "MEDIUM" },
+    "bhayandar": { "base_price": 520, "demand": "HIGH" }
+  },
+
+  "hourse mackerel": {
+    "sassoon": { "base_price": 220, "demand": "HIGH" },
+    "versova": { "base_price": 200, "demand": "MEDIUM" },
+    "bhayandar": { "base_price": 240, "demand": "HIGH" }
+  },
+
+  "mackerel": {
+    "sassoon": { "base_price": 180, "demand": "HIGH" },
+    "versova": { "base_price": 160, "demand": "MEDIUM" },
+    "bhayandar": { "base_price": 200, "demand": "HIGH" }
+  },
+
+  "pink perch": {
+    "sassoon": { "base_price": 300, "demand": "HIGH" },
+    "versova": { "base_price": 280, "demand": "MEDIUM" },
+    "bhayandar": { "base_price": 320, "demand": "HIGH" }
+  },
+
+  "pomfret": {
+    "sassoon": { "base_price": 700, "demand": "HIGH" },
+    "versova": { "base_price": 650, "demand": "MEDIUM" },
+    "bhayandar": { "base_price": 750, "demand": "HIGH" }
+  },
+
+  "prawn": {
+    "sassoon": { "base_price": 400, "demand": "HIGH" },
+    "versova": { "base_price": 380, "demand": "MEDIUM" },
+    "bhayandar": { "base_price": 420, "demand": "HIGH" }
+  },
+
+  "red mullet": {
+    "sassoon": { "base_price": 350, "demand": "HIGH" },
+    "versova": { "base_price": 330, "demand": "MEDIUM" },
+    "bhayandar": { "base_price": 370, "demand": "HIGH" }
+  },
+
+  "red sea bream": {
+    "sassoon": { "base_price": 480, "demand": "HIGH" },
+    "versova": { "base_price": 450, "demand": "MEDIUM" },
+    "bhayandar": { "base_price": 500, "demand": "HIGH" }
+  },
+
+  "rohu": {
+    "sassoon": { "base_price": 260, "demand": "MEDIUM" },
+    "versova": { "base_price": 240, "demand": "LOW" },
+    "bhayandar": { "base_price": 280, "demand": "MEDIUM" }
+  },
+
+  "sea bass": {
+    "sassoon": { "base_price": 600, "demand": "HIGH" },
+    "versova": { "base_price": 580, "demand": "MEDIUM" },
+    "bhayandar": { "base_price": 620, "demand": "HIGH" }
+  },
+
+  "shrimp": {
+    "sassoon": { "base_price": 450, "demand": "HIGH" },
+    "versova": { "base_price": 430, "demand": "MEDIUM" },
+    "bhayandar": { "base_price": 480, "demand": "HIGH" }
+  },
+
+  "silver carp": {
+    "sassoon": { "base_price": 240, "demand": "MEDIUM" },
+    "versova": { "base_price": 220, "demand": "LOW" },
+    "bhayandar": { "base_price": 260, "demand": "MEDIUM" }
+  },
+
+  "striped red mullet": {
+    "sassoon": { "base_price": 360, "demand": "HIGH" },
+    "versova": { "base_price": 340, "demand": "MEDIUM" },
+    "bhayandar": { "base_price": 380, "demand": "HIGH" }
+  },
+
+  "trout": {
+    "sassoon": { "base_price": 500, "demand": "MEDIUM" },
+    "versova": { "base_price": 480, "demand": "LOW" },
+    "bhayandar": { "base_price": 520, "demand": "MEDIUM" }
+  }
+}
