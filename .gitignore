@@ -63,6 +63,7 @@ models/
 # Frontend
 # =========================
 node_modules/
+frontend/src/assets/
 
 # =========================
 # Environment variables
