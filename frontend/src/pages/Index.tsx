@@ -170,7 +170,7 @@ const HomePage: React.FC = () => {
 
         <div className="max-w-6xl mx-auto text-center z-10" style={parallaxStyle(0.1)}>
           <div className="inline-block mb-6 px-4 py-2 bg-blue-500/20 rounded-full border border-blue-400/30">
-            <span className="text-blue-300 text-sm">🌊 Empowering 7+ Million Coastal Fishermen</span>
+            <span className="text-blue-300 text-sm">🌊 Aiming Empowering Coastal Fishermen</span>
           </div>
 
           <h1 className="text-6xl md:text-8xl font-bold mb-6 bg-gradient-to-r from-blue-400 via-cyan-300 to-teal-400 text-transparent bg-clip-text leading-tight">
@@ -206,9 +206,10 @@ const HomePage: React.FC = () => {
           {/* Stats */}
           <div className="mt-20 grid grid-cols-3 gap-8 max-w-4xl mx-auto">
             {[
-              { value: '97%+', label: 'Fish ID Accuracy' },
-              { value: '5 Days', label: 'Weather Forecast' },
-              { value: 'Real-time', label: 'Market Prices' }
+              { value: 'High', label: 'Fish ID Accuracy' },
+              { value: '6 Days', label: 'Weather Forecast' },
+              { value: 'Real-time', label: 'Market Prices' },
+              { value: 'Interactive', label: 'Market Recommendation'}
             ].map((stat, i) => (
               <div key={i} className="glass-effect rounded-2xl p-6 transform hover:scale-105 transition">
                 <div className="text-4xl font-bold text-blue-400 mb-2">{stat.value}</div>
@@ -241,7 +242,7 @@ const HomePage: React.FC = () => {
               {
                 icon: <Cloud size={48} />,
                 title: 'Smart Weather Forecasting',
-                description: 'AI-powered 5-day weather predictions with safety indicators for tide, wind speed, and sea conditions',
+                description: 'AI-powered 6-day weather predictions with safety indicators for tide, wind speed, and sea conditions',
                 color: 'from-blue-500 to-cyan-500'
               },
               {
@@ -315,7 +316,7 @@ const HomePage: React.FC = () => {
                 
                 <h3 className="text-4xl font-bold mb-4">Weather Forecasting</h3>
                 <p className="text-gray-400 mb-8 text-lg">
-                  Get accurate 5-day marine weather forecasts with safety indicators, 
+                  Get accurate 6-day marine weather forecasts with safety indicators, 
                   tide predictions, and optimal fishing time recommendations
                 </p>
 
@@ -323,7 +324,7 @@ const HomePage: React.FC = () => {
                   {[
                     'Real-time marine conditions',
                     'Safety indicators & alerts',
-                    '5-day detailed forecast',
+                    '6-day detailed forecast',
                     'Tide & wave predictions',
                     'Wind speed analysis'
                   ].map((item, i) => (
@@ -394,7 +395,7 @@ const HomePage: React.FC = () => {
             <Anchor className="text-blue-400" size={32} />
             <span className="text-2xl font-bold text-white">SagarMitra</span>
           </div>
-          <p>© 2024 SagarMitra. Empowering 7+ Million Coastal Fishermen. Made with ❤️ for India's Fishing Community</p>
+          <p>© 2026 SagarMitra. Aiming To Empower Coastal Fishermen. Made with ❤️ for India's Fishing Community</p>
         </div>
       </footer>
     </div>

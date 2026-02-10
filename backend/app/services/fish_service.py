@@ -9,7 +9,7 @@ class FishService:
         self.classifier = classifier
         self.fish_info = self._load_fish_info()
         self.price_service = PriceService()
-    
+
     def _load_fish_info(self) -> dict:
         """Load fish information database"""
         with open("app/data/fish_info.json", 'r') as f:

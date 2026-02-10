@@ -21,7 +21,7 @@ The system aims to improve safety at sea and maximize fishermen’s income using
 
 ### 📈 Market Recommendation System
 - Nearby best market suggestions
-- Price trend-based recommendations
+- Price trend-based fish price recommendations
 - Location-aware market intelligence
 
 ### 🗺️ Interactive Web Interface
