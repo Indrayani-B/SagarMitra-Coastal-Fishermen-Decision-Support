@@ -64,7 +64,7 @@ models/
 # =========================
 node_modules/
 frontend/src/assets/
-
+.zip
 # =========================
 # Environment variables
 # =========================

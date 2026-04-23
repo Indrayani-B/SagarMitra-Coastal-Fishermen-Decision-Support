@@ -1,5 +1,7 @@
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import L from "leaflet";
+import { useEffect } from "react";
+import { useMap } from "react-leaflet";
 
 /* ----------------------------------
    Market type
@@ -72,23 +74,36 @@ type Props = {
   userLat: number;
   userLng: number;
   bestMarketName: string;
+  selectedMarketName?: string; 
 };
 
 /* ----------------------------------
    Market Map Component
 ----------------------------------- */
+const ResizeMap = () => {
+  const map = useMap();
+
+  useEffect(() => {
+    setTimeout(() => {
+      map.invalidateSize();
+    }, 100); // slight delay helps
+  }, [map]);
+
+  return null;
+};
 const MarketMap = ({
   markets,
   userLat,
   userLng,
   bestMarketName,
+  selectedMarketName,
 }: Props) => {
   return (
     <MapContainer
       {...({
         center: [userLat, userLng],
         zoom: 11,
-        className: "h-72 w-full rounded-xl",
+        className: "h-full w-full rounded-xl",
       } as any)}
     >
       <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
@@ -127,6 +142,7 @@ const MarketMap = ({
           </Marker>
         );
       })}
+      <ResizeMap />
     </MapContainer>
   );
 };
