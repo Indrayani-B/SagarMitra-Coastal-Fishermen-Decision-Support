@@ -196,35 +196,16 @@ Score =
 <p align="center">
   <img src="./frontend/src/assets/sysArch.jpeg" alt="SagarMitra Architecture" width="400" />
 </p>
----
+
 
 # ⚡ Tech Stack
+**Frontend:** React 18, TypeScript, Vite, Tailwind CSS, Framer Motion
 
-## Frontend
-- React 18
-- TypeScript
-- Vite
-- Tailwind CSS
-- Framer Motion
-- shadcn/ui
+**Backend:** FastAPI, Python 3.10+, Uvicorn, Pydantic 
 
-## Backend
-- FastAPI
-- Python
-- Uvicorn
-- Pydantic
+**ML / AI:** TensorFlow / Keras, scikit-learn, pandas, NumPy
 
-## AI / ML
-- TensorFlow / Keras
-- scikit-learn
-- pandas
-- NumPy
-
-## Other Integrations
-- Firebase Authentication
-- OpenWeatherMap API
-- Google Maps / Leaflet
-
+**Other:** Firebase Auth, OpenWeatherMap API, Leaflet
 ---
 
 # 📂 Project Structure
@@ -334,7 +315,7 @@ through one unified platform.
 # 👨‍💻 Author
 
 **Indrayani Bhujade**  
-AI/ML Developer • Full Stack Developer • Problem Solver
+AI/ML Developer • Full Stack Developer 
 
 ---
 
